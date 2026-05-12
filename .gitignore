@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.*
+
+# Logs and runtime files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Docker
+docker-compose.override.yml
+
+# Model weights and data
+*.pth
+*.ckpt
+*.h5
+*.pt
+
+# Generated or temporary files
+__pycache__/
+*.tmp
+*.temp
+
+# Optional: local IDE settings
+.idea/
+
+# Ignore dataset directories if stored locally
+src/System_Deep_learning/archive/

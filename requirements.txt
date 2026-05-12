@@ -1,0 +1,35 @@
+# NLP Embeddings
+sentence-transformers==2.7.0
+
+# Vector database
+chromadb==0.4.24
+
+# API backend
+fastapi==0.110.0
+uvicorn==0.29.0
+python-multipart
+
+# Validation
+pydantic==2.7.1
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Utils
+numpy==1.26.4
+
+# Deep Learning (Vision)
+torch
+torchvision
+
+# Visualization / ML
+matplotlib
+seaborn
+scikit-learn
+pillow
+
+# OpenCV
+opencv-python
+
+# Grad-CAM (attention maps)
+grad-cam==1.5.5
