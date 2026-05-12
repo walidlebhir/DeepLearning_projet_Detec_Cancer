@@ -33,3 +33,7 @@ opencv-python
 
 # Grad-CAM (attention maps)
 grad-cam==1.5.5
+
+# Retrieval-Augmented Generation
+PyPDF2==3.0.0
+groq==1.2.0
